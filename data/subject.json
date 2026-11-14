@@ -3,7 +3,7 @@
   "name": "الفحوصات",
   "platformTitle": "منصة QDU للاختبار التفاعلي",
   "author": "مقتدى الكناني",
-  "contentVersion": "imaging-examinations-1",
+  "contentVersion": "imaging-examinations-2",
   "enrichmentFiles": [
     "enrichment.json"
   ]

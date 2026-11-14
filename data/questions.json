@@ -1,7 +1,7 @@
 [
   {
     "id": "doctor-l1-q001",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "What is myelography?",
     "options": [
       "Examination of the liver using US",
@@ -13,7 +13,7 @@
   },
   {
     "id": "doctor-l1-q002",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which contrast medium is commonly used in modern myelography?",
     "options": [
       "Barium sulfate",
@@ -25,7 +25,7 @@
   },
   {
     "id": "doctor-l1-q003",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Where is the contrast medium usually injected?",
     "options": [
       "Epidural space",
@@ -37,7 +37,7 @@
   },
   {
     "id": "doctor-l1-q004",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which procedure is commonly used to introduce contrast during myelography?",
     "options": [
       "Thoracentesis",
@@ -49,7 +49,7 @@
   },
   {
     "id": "doctor-l1-q005",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which condition can be evaluated using myelography?",
     "options": [
       "Lumbar spinal stenosis",
@@ -61,7 +61,7 @@
   },
   {
     "id": "doctor-l1-q006",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Myelography is particularly useful when:",
     "options": [
       "The patient needs a routine chest X-ray",
@@ -73,7 +73,7 @@
   },
   {
     "id": "doctor-l1-q007",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which structure is directly outlined by contrast during myelography?",
     "options": [
       "Spinal subarachnoid space",
@@ -85,7 +85,7 @@
   },
   {
     "id": "doctor-l1-q008",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which of the following may cause an abnormal appearance on a myelogram?",
     "options": [
       "Herniated intervertebral disc",
@@ -97,7 +97,7 @@
   },
   {
     "id": "doctor-l1-q009",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which is a possible complication of myelography?",
     "options": [
       "Post-dural puncture headache",
@@ -109,7 +109,7 @@
   },
   {
     "id": "doctor-l1-q010",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Which of the following is a potential adverse effect after myelography?",
     "options": [
       "Nausea",
@@ -121,7 +121,7 @@
   },
   {
     "id": "doctor-l1-q011",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "What does spinal canal stenosis mean?",
     "options": [
       "Widening of the spinal canal",
@@ -133,7 +133,7 @@
   },
   {
     "id": "doctor-l1-q012",
-    "lectureId": "doctor-l1",
+    "lectureId": "doctor",
     "text": "Why may CT myelography be preferred over MRI in some patients?",
     "options": [
       "It never uses radiation",
@@ -145,7 +145,7 @@
   },
   {
     "id": "doctor-l2-q001",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "What imaging modality is most commonly used for evaluating acute intracranial hemorrhage?",
     "options": [
       "MRI",
@@ -157,7 +157,7 @@
   },
   {
     "id": "doctor-l2-q002",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which imaging technique provides the best detail of brain soft tissues?",
     "options": [
       "CT scan",
@@ -169,7 +169,7 @@
   },
   {
     "id": "doctor-l2-q003",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which imaging modality is commonly used for pre-surgical mapping of brain functions?",
     "options": [
       "CT scan",
@@ -181,7 +181,7 @@
   },
   {
     "id": "doctor-l2-q004",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which neuroimaging technique utilizes radioactive tracers to assess brain function?",
     "options": [
       "MRI",
@@ -193,7 +193,7 @@
   },
   {
     "id": "doctor-l2-q005",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which method has the best spatial resolution for structural brain imaging?",
     "options": [
       "EEG",
@@ -205,7 +205,7 @@
   },
   {
     "id": "doctor-l2-q006",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "What is the typical appearance of a brain abscess on MRI?",
     "options": [
       "Ring-enhancing lesion with central necrosis",
@@ -217,7 +217,7 @@
   },
   {
     "id": "doctor-l2-q007",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which imaging feature is indicative of a stroke in the acute phase?",
     "options": [
       "Hypodense area on CT",
@@ -229,7 +229,7 @@
   },
   {
     "id": "doctor-l2-q008",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which neuroimaging technique is best for assessing vascular abnormalities like aneurysms?",
     "options": [
       "EEG",
@@ -241,7 +241,7 @@
   },
   {
     "id": "doctor-l2-q009",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Primary use of CT scanning in brain studies?",
     "options": [
       "Detecting tumors",
@@ -253,7 +253,7 @@
   },
   {
     "id": "doctor-l2-q010",
-    "lectureId": "doctor-l2",
+    "lectureId": "doctor",
     "text": "Which of the following is a limitation of CT compared to MRI in brain imaging?",
     "options": [
       "Speed of acquisition",
@@ -265,7 +265,7 @@
   },
   {
     "id": "doctor-l3-q001",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which imaging modality is best for evaluating the spinal cord and intervertebral discs?",
     "options": [
       "Plain X-ray",
@@ -277,7 +277,7 @@
   },
   {
     "id": "doctor-l3-q002",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which imaging modality is best for detecting a bony fracture of the spine in a trauma patient?",
     "options": [
       "Ultrasound",
@@ -289,7 +289,7 @@
   },
   {
     "id": "doctor-l3-q003",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which modality uses ionizing radiation to produce images of the spine?",
     "options": [
       "MRI",
@@ -301,7 +301,7 @@
   },
   {
     "id": "doctor-l3-q004",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which imaging modality does not use ionizing radiation?",
     "options": [
       "CT",
@@ -313,7 +313,7 @@
   },
   {
     "id": "doctor-l3-q005",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which MRI sequence typically shows cerebrospinal fluid (CSF) as bright?",
     "options": [
       "T1-weighted",
@@ -325,7 +325,7 @@
   },
   {
     "id": "doctor-l3-q006",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "On a T1-weighted MRI, normal fatty bone marrow usually appears:",
     "options": [
       "Bright",
@@ -337,7 +337,7 @@
   },
   {
     "id": "doctor-l3-q007",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which modality is most useful for assessing spinal cord compression?",
     "options": [
       "MRI",
@@ -349,7 +349,7 @@
   },
   {
     "id": "doctor-l3-q008",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which modality provides the best detailed assessment of vertebral bone anatomy?",
     "options": [
       "CT",
@@ -361,7 +361,7 @@
   },
   {
     "id": "doctor-l3-q009",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which projection is commonly used for an initial radiographic examination of the cervical spine when plain radiographs are indicated?",
     "options": [
       "AP projection",
@@ -373,7 +373,7 @@
   },
   {
     "id": "doctor-l3-q010",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "What is a major limitation of plain spinal radiography?",
     "options": [
       "It cannot show vertebral alignment",
@@ -385,7 +385,7 @@
   },
   {
     "id": "doctor-l3-q011",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which imaging modality is particularly useful for assessing the degree and pattern of scoliosis?",
     "options": [
       "Standing spinal radiographs",
@@ -397,7 +397,7 @@
   },
   {
     "id": "doctor-l3-q012",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Spondylolisthesis refers to:",
     "options": [
       "Infection of the spinal cord",
@@ -409,7 +409,7 @@
   },
   {
     "id": "doctor-l3-q013",
-    "lectureId": "doctor-l3",
+    "lectureId": "doctor",
     "text": "Which imaging modality is useful for detecting vertebral metastases and assessing epidural extension?",
     "options": [
       "MRI",

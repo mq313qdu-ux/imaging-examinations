@@ -1,26 +1,9 @@
 [
   {
-    "id": "doctor-l1",
-    "title": "MYELOGRAPHY",
-    "number": "1",
+    "id": "doctor",
+    "title": "أسئلة الدكتور",
     "category": "أسئلة الدكتور",
     "order": 1,
-    "icon": "trophy"
-  },
-  {
-    "id": "doctor-l2",
-    "title": "BRAIN IMAGING & NEUROIMAGING",
-    "number": "2",
-    "category": "أسئلة الدكتور",
-    "order": 2,
-    "icon": "trophy"
-  },
-  {
-    "id": "doctor-l3",
-    "title": "SPINAL IMAGING",
-    "number": "3",
-    "category": "أسئلة الدكتور",
-    "order": 3,
     "icon": "trophy"
   },
   {
