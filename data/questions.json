@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "doctor-l1-q001",
+    "lectureId": "doctor-l1",
+    "text": "What is myelography?",
+    "options": [
+      "Examination of the liver using US",
+      "Radiographic examination of the spinal subarachnoid space using contrast",
+      "Examination of the heart",
+      "Imaging of the urinary bladder"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l1-q002",
+    "lectureId": "doctor-l1",
+    "text": "Which contrast medium is commonly used in modern myelography?",
+    "options": [
+      "Barium sulfate",
+      "Ionic oil-based contrast",
+      "Nonionic water-soluble iodinated contrast",
+      "Gadolinium-based contrast as the routine agent"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l1-q003",
+    "lectureId": "doctor-l1",
+    "text": "Where is the contrast medium usually injected?",
+    "options": [
+      "Epidural space",
+      "Subarachnoid space",
+      "Intravenous circulation",
+      "Intervertebral disc"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l1-q004",
+    "lectureId": "doctor-l1",
+    "text": "Which procedure is commonly used to introduce contrast during myelography?",
+    "options": [
+      "Thoracentesis",
+      "Lumbar puncture",
+      "Angiography",
+      "Arthrocentesis"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l1-q005",
+    "lectureId": "doctor-l1",
+    "text": "Which condition can be evaluated using myelography?",
+    "options": [
+      "Lumbar spinal stenosis",
+      "Cataract",
+      "Pneumonia",
+      "Gallstones"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l1-q006",
+    "lectureId": "doctor-l1",
+    "text": "Myelography is particularly useful when:",
+    "options": [
+      "The patient needs a routine chest X-ray",
+      "MRI is contraindicated or nondiagnostic",
+      "The patient has a skin infection only",
+      "Ultrasound is the preferred test for gallstones"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l1-q007",
+    "lectureId": "doctor-l1",
+    "text": "Which structure is directly outlined by contrast during myelography?",
+    "options": [
+      "Spinal subarachnoid space",
+      "Pleural cavity",
+      "Peritoneal cavity",
+      "Urinary collecting system"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l1-q008",
+    "lectureId": "doctor-l1",
+    "text": "Which of the following may cause an abnormal appearance on a myelogram?",
+    "options": [
+      "Herniated intervertebral disc",
+      "Spinal canal tumor",
+      "Spinal stenosis",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "doctor-l1-q009",
+    "lectureId": "doctor-l1",
+    "text": "Which is a possible complication of myelography?",
+    "options": [
+      "Post-dural puncture headache",
+      "Contrast reaction",
+      "Infection",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "doctor-l1-q010",
+    "lectureId": "doctor-l1",
+    "text": "Which of the following is a potential adverse effect after myelography?",
+    "options": [
+      "Nausea",
+      "Headache",
+      "Seizure, rarely",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "doctor-l1-q011",
+    "lectureId": "doctor-l1",
+    "text": "What does spinal canal stenosis mean?",
+    "options": [
+      "Widening of the spinal canal",
+      "Narrowing of the spinal canal",
+      "Enlargement of the lungs",
+      "Inflammation of the liver"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l1-q012",
+    "lectureId": "doctor-l1",
+    "text": "Why may CT myelography be preferred over MRI in some patients?",
+    "options": [
+      "It never uses radiation",
+      "It can be useful when MRI is contraindicated or affected by certain metal artifacts",
+      "It never requires contrast",
+      "It is always the first-line examination for every spinal disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l2-q001",
+    "lectureId": "doctor-l2",
+    "text": "What imaging modality is most commonly used for evaluating acute intracranial hemorrhage?",
+    "options": [
+      "MRI",
+      "PET",
+      "CT scan",
+      "fMRI"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l2-q002",
+    "lectureId": "doctor-l2",
+    "text": "Which imaging technique provides the best detail of brain soft tissues?",
+    "options": [
+      "CT scan",
+      "PET",
+      "EEG",
+      "MRI"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "doctor-l2-q003",
+    "lectureId": "doctor-l2",
+    "text": "Which imaging modality is commonly used for pre-surgical mapping of brain functions?",
+    "options": [
+      "CT scan",
+      "Functional MRI (fMRI)",
+      "PET scan",
+      "EEG"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l2-q004",
+    "lectureId": "doctor-l2",
+    "text": "Which neuroimaging technique utilizes radioactive tracers to assess brain function?",
+    "options": [
+      "MRI",
+      "PET scan",
+      "fMRI",
+      "MEG"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l2-q005",
+    "lectureId": "doctor-l2",
+    "text": "Which method has the best spatial resolution for structural brain imaging?",
+    "options": [
+      "EEG",
+      "MEG",
+      "MRI",
+      "Lesion studies"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l2-q006",
+    "lectureId": "doctor-l2",
+    "text": "What is the typical appearance of a brain abscess on MRI?",
+    "options": [
+      "Ring-enhancing lesion with central necrosis",
+      "Hyperintense T1 signal",
+      "Crescent-shaped hyperdensity",
+      "Butterfly pattern"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l2-q007",
+    "lectureId": "doctor-l2",
+    "text": "Which imaging feature is indicative of a stroke in the acute phase?",
+    "options": [
+      "Hypodense area on CT",
+      "Hyperintense T1 signal",
+      "Ring-enhancing lesion",
+      "Crescent-shaped hyperdensity"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l2-q008",
+    "lectureId": "doctor-l2",
+    "text": "Which neuroimaging technique is best for assessing vascular abnormalities like aneurysms?",
+    "options": [
+      "EEG",
+      "MRI",
+      "Magnetic resonance angiography (MRA)",
+      "PET"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l2-q009",
+    "lectureId": "doctor-l2",
+    "text": "Primary use of CT scanning in brain studies?",
+    "options": [
+      "Detecting tumors",
+      "Evaluating blood flow",
+      "Assessing nerve function",
+      "Measuring brain activity."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l2-q010",
+    "lectureId": "doctor-l2",
+    "text": "Which of the following is a limitation of CT compared to MRI in brain imaging?",
+    "options": [
+      "Speed of acquisition",
+      "Soft tissue differentiation",
+      "Cost",
+      "Availability"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q001",
+    "lectureId": "doctor-l3",
+    "text": "Which imaging modality is best for evaluating the spinal cord and intervertebral discs?",
+    "options": [
+      "Plain X-ray",
+      "CT scan",
+      "MRI",
+      "Fluoroscopy"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l3-q002",
+    "lectureId": "doctor-l3",
+    "text": "Which imaging modality is best for detecting a bony fracture of the spine in a trauma patient?",
+    "options": [
+      "Ultrasound",
+      "CT scan",
+      "MRI",
+      "PET scan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q003",
+    "lectureId": "doctor-l3",
+    "text": "Which modality uses ionizing radiation to produce images of the spine?",
+    "options": [
+      "MRI",
+      "CT",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q004",
+    "lectureId": "doctor-l3",
+    "text": "Which imaging modality does not use ionizing radiation?",
+    "options": [
+      "CT",
+      "X-ray",
+      "MRI",
+      "Fluoroscopy"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l3-q005",
+    "lectureId": "doctor-l3",
+    "text": "Which MRI sequence typically shows cerebrospinal fluid (CSF) as bright?",
+    "options": [
+      "T1-weighted",
+      "T2-weighted",
+      "CT window",
+      "X-ray sequence"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q006",
+    "lectureId": "doctor-l3",
+    "text": "On a T1-weighted MRI, normal fatty bone marrow usually appears:",
+    "options": [
+      "Bright",
+      "Completely black",
+      "Identical to CSF",
+      "Invisible"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l3-q007",
+    "lectureId": "doctor-l3",
+    "text": "Which modality is most useful for assessing spinal cord compression?",
+    "options": [
+      "MRI",
+      "Plain radiography",
+      "Ultrasound",
+      "Bone densitometry"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l3-q008",
+    "lectureId": "doctor-l3",
+    "text": "Which modality provides the best detailed assessment of vertebral bone anatomy?",
+    "options": [
+      "CT",
+      "Ultrasound",
+      "EEG",
+      "Echocardiography"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l3-q009",
+    "lectureId": "doctor-l3",
+    "text": "Which projection is commonly used for an initial radiographic examination of the cervical spine when plain radiographs are indicated?",
+    "options": [
+      "AP projection",
+      "Lateral projection",
+      "Both AP and lateral projections",
+      "Axial skull projection only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "doctor-l3-q010",
+    "lectureId": "doctor-l3",
+    "text": "What is a major limitation of plain spinal radiography?",
+    "options": [
+      "It cannot show vertebral alignment",
+      "It has limited ability to assess the spinal cord and soft tissues",
+      "It cannot show vertebral fractures",
+      "It uses magnetic fields"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q011",
+    "lectureId": "doctor-l3",
+    "text": "Which imaging modality is particularly useful for assessing the degree and pattern of scoliosis?",
+    "options": [
+      "Standing spinal radiographs",
+      "Abdominal ultrasound",
+      "Brain MRI only",
+      "Chest CT only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "doctor-l3-q012",
+    "lectureId": "doctor-l3",
+    "text": "Spondylolisthesis refers to:",
+    "options": [
+      "Infection of the spinal cord",
+      "Forward or backward displacement of one vertebra relative to another",
+      "Narrowing of the intervertebral disc only",
+      "Inflammation of a nerve root only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "doctor-l3-q013",
+    "lectureId": "doctor-l3",
+    "text": "Which imaging modality is useful for detecting vertebral metastases and assessing epidural extension?",
+    "options": [
+      "MRI",
+      "Plain X-ray alone",
+      "Ultrasound",
+      "Fluoroscopy alone"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q001",
+    "lectureId": "summary-l1",
+    "text": "What is the technique of choice for investigating serious head injury?",
+    "options": [
+      "Magnetic Resonance Imaging (MRI)",
+      "Computed Tomography (CT)",
+      "Ultrasound (US)",
+      "Radionuclide Imaging"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q002",
+    "lectureId": "summary-l1",
+    "text": "Which imaging modality is safer in emergency situations than MRI?",
+    "options": [
+      "PET",
+      "Ultrasound",
+      "CT",
+      "Plain Films"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q003",
+    "lectureId": "summary-l1",
+    "text": "What are the main advantages of CT in emergency situations?",
+    "options": [
+      "High signal and 3D vessel imaging",
+      "Quick, efficient, and safer",
+      "Direct imaging of nerve roots",
+      "Imaging through acoustic windows"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q004",
+    "lectureId": "summary-l1",
+    "text": "What is the best imaging modality for the brain?",
+    "options": [
+      "CT",
+      "Ultrasound",
+      "MRI",
+      "Plain Films"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q005",
+    "lectureId": "summary-l1",
+    "text": "Which factor can limit the use of brain MRI?",
+    "options": [
+      "Availability",
+      "Window width",
+      "Fontanelles",
+      "Spinal canal stenosis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q006",
+    "lectureId": "summary-l1",
+    "text": "Which patient-related factor can limit brain MRI?",
+    "options": [
+      "Skull fracture",
+      "Patient acceptability",
+      "Arterial velocity",
+      "Vertebral deformity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q007",
+    "lectureId": "summary-l1",
+    "text": "Which emergency-related factor can limit brain MRI?",
+    "options": [
+      "Increased FDG uptake",
+      "Spinal canal imaging",
+      "Logistics and safety of patient handling",
+      "Window level adjustment"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q008",
+    "lectureId": "summary-l1",
+    "text": "Which neurological condition is listed as an application of brain MRI?",
+    "options": [
+      "Spinal trauma",
+      "Epilepsy",
+      "Vertebral metastasis",
+      "Spinal deformity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q009",
+    "lectureId": "summary-l1",
+    "text": "Which type of stroke is specifically listed among brain MRI applications?",
+    "options": [
+      "Acute stroke",
+      "Spinal trauma",
+      "Intracranial infection",
+      "Vertebral metastasis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q010",
+    "lectureId": "summary-l1",
+    "text": "Which vascular condition is listed among brain MRI applications?",
+    "options": [
+      "Spinal stenosis",
+      "Skull fracture",
+      "Aneurysm",
+      "Scoliosis"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q011",
+    "lectureId": "summary-l1",
+    "text": "Which imaging modality is described as the only effective way of diagnosing Multiple Sclerosis (MS)?",
+    "options": [
+      "CT",
+      "Ultrasound",
+      "MRI",
+      "Plain Films"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q012",
+    "lectureId": "summary-l1",
+    "text": "Which imaging method is very important in intracranial hemorrhage (ICH)?",
+    "options": [
+      "Angiography",
+      "Plain Films",
+      "Myelography",
+      "Ultrasound"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q013",
+    "lectureId": "summary-l1",
+    "text": "Which imaging method is important in the intra-arterial management of ischaemic stroke?",
+    "options": [
+      "Plain Films",
+      "Ultrasound",
+      "Angiography",
+      "Myelography"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q014",
+    "lectureId": "summary-l1",
+    "text": "What does ICH stand for?",
+    "options": [
+      "Increased Intracranial Pressure",
+      "Intracranial Hemorrhage",
+      "Intracranial Infection",
+      "Ischaemic Stroke"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q015",
+    "lectureId": "summary-l1",
+    "text": "Which technique is included under radionuclide imaging?",
+    "options": [
+      "CT Arteriography",
+      "Transcranial Doppler",
+      "Positron Emission Tomography (PET)",
+      "Magnetic Resonance Angiography"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q016",
+    "lectureId": "summary-l1",
+    "text": "What does PET stand for?",
+    "options": [
+      "Positron Emission Tomography",
+      "Computed Tomography",
+      "Magnetic Resonance Imaging",
+      "Maximum Intensity Projection"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q017",
+    "lectureId": "summary-l1",
+    "text": "Which substance may show high uptake in PET imaging?",
+    "options": [
+      "Saline",
+      "Contrast medium",
+      "18F fluorodeoxyglucose (18FDG)",
+      "Cerebrospinal fluid"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q018",
+    "lectureId": "summary-l1",
+    "text": "High uptake of 18FDG may be shown in which neurological condition?",
+    "options": [
+      "Epilepsy",
+      "Spinal stenosis",
+      "Skull fracture",
+      "Scoliosis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q019",
+    "lectureId": "summary-l1",
+    "text": "High uptake of 18FDG may also be shown in:",
+    "options": [
+      "Spinal deformity",
+      "Tumours",
+      "Skull injury",
+      "Increased intracranial pressure"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q020",
+    "lectureId": "summary-l1",
+    "text": "Brain ultrasound using fontanelles is performed in:",
+    "options": [
+      "Adults",
+      "Neonates and infants",
+      "Patients with spinal trauma",
+      "Patients with vertebral metastasis"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q021",
+    "lectureId": "summary-l1",
+    "text": "Which condition can be imaged by ultrasound in neonates and infants?",
+    "options": [
+      "Haemorrhagic syndromes",
+      "Vertebral metastasis",
+      "Spinal deformity",
+      "Skull fracture"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q022",
+    "lectureId": "summary-l1",
+    "text": "Which vascular-related condition can be imaged by ultrasound in neonates and infants?",
+    "options": [
+      "Aneurysm",
+      "Ischaemic syndromes",
+      "Vertebral tumours",
+      "Spinal stenosis"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q023",
+    "lectureId": "summary-l1",
+    "text": "Which structural abnormality can be imaged by ultrasound in neonates and infants?",
+    "options": [
+      "Skull fracture",
+      "Spinal trauma",
+      "Developmental malformations",
+      "Vertebral metastasis"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q024",
+    "lectureId": "summary-l1",
+    "text": "What is used as an acoustic window in neonatal brain ultrasound?",
+    "options": [
+      "Foramen magnum",
+      "Fontanelles",
+      "Spinal canal",
+      "Anterior cranial fossa"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q025",
+    "lectureId": "summary-l1",
+    "text": "Which ultrasound technique may be used in adults?",
+    "options": [
+      "CT Venography",
+      "Transcranial Doppler",
+      "CT Myelography",
+      "PET Scan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l1-q026",
+    "lectureId": "summary-l1",
+    "text": "What does transcranial Doppler measure in adults?",
+    "options": [
+      "Intracerebral arterial velocity",
+      "Intracranial pressure",
+      "Spinal canal diameter",
+      "18FDG uptake"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l1-q027",
+    "lectureId": "summary-l1",
+    "text": "Transcranial Doppler assesses the severity of:",
+    "options": [
+      "Skull fracture",
+      "Developmental malformations",
+      "Stenosis",
+      "Vertebral deformity"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l1-q028",
+    "lectureId": "summary-l1",
+    "text": "Plain films of the skull are of little value except in:",
+    "options": [
+      "Multiple sclerosis",
+      "Head injury",
+      "Epilepsy",
+      "Acute stroke"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q001",
+    "lectureId": "summary-l2",
+    "text": "Which traumatic condition is an indication for brain CT?",
+    "options": [
+      "Spinal stenosis",
+      "Head injury and skull fracture",
+      "Vertebral metastasis",
+      "Developmental malformations"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q002",
+    "lectureId": "summary-l2",
+    "text": "Which infection-related condition is an indication for brain CT?",
+    "options": [
+      "Intracranial infection",
+      "Spinal deformity",
+      "Multiple sclerosis",
+      "Vertebral metastasis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q003",
+    "lectureId": "summary-l2",
+    "text": "What is recommended for brain CT in cases of intracranial infection?",
+    "options": [
+      "CT Myelography",
+      "Transcranial Doppler",
+      "Contrast medium",
+      "Fontanelles as acoustic windows"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q004",
+    "lectureId": "summary-l2",
+    "text": "Which hemorrhagic condition is an indication for brain CT?",
+    "options": [
+      "Intracranial hemorrhage",
+      "Spinal canal stenosis",
+      "Vertebral deformity",
+      "Developmental malformations"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q005",
+    "lectureId": "summary-l2",
+    "text": "Which cerebrovascular condition is an indication for brain CT?",
+    "options": [
+      "Scoliosis",
+      "Stroke",
+      "Spinal infection",
+      "Vertebral tumours"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q006",
+    "lectureId": "summary-l2",
+    "text": "Which pressure-related condition is an indication for brain CT?",
+    "options": [
+      "Increased intracranial pressure",
+      "Increased arterial velocity",
+      "Restricted diffusion",
+      "High 18FDG uptake"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q007",
+    "lectureId": "summary-l2",
+    "text": "What is the section thickness used in brain CT?",
+    "options": [
+      "15 mm",
+      "40 mm",
+      "3 mm",
+      "50 mm"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q008",
+    "lectureId": "summary-l2",
+    "text": "Brain CT sections are taken parallel to:",
+    "options": [
+      "The cervical spine",
+      "The floor of the anterior cranial fossa",
+      "The lumbar spine",
+      "The spinal canal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q009",
+    "lectureId": "summary-l2",
+    "text": "Which cranial fossa is used as the reference for brain CT sections?",
+    "options": [
+      "Anterior cranial fossa",
+      "Spinal canal",
+      "Cervical spine",
+      "Lumbar spine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q010",
+    "lectureId": "summary-l2",
+    "text": "Brain CT sections begin at the:",
+    "options": [
+      "Vertex",
+      "C1/C2",
+      "Foramen magnum",
+      "L2–L3"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q011",
+    "lectureId": "summary-l2",
+    "text": "Brain CT sections extend up to the:",
+    "options": [
+      "Foramen magnum",
+      "Vertex",
+      "Cervical spine",
+      "Spinal canal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q012",
+    "lectureId": "summary-l2",
+    "text": "Which window parameter should be adjusted in brain CT?",
+    "options": [
+      "Arterial velocity",
+      "Diffusion coefficient",
+      "Window width",
+      "Contrast delay"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q013",
+    "lectureId": "summary-l2",
+    "text": "Which other window parameter should be adjusted in brain CT?",
+    "options": [
+      "Window level",
+      "Arterial velocity",
+      "Spinal needle position",
+      "Contrast volume"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q014",
+    "lectureId": "summary-l2",
+    "text": "Which two windows should be visualized in brain CT?",
+    "options": [
+      "T1 and T2",
+      "Brain and bone windows",
+      "DWI and ADC",
+      "AP and lateral views"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q015",
+    "lectureId": "summary-l2",
+    "text": "What does CTA stand for?",
+    "options": [
+      "CT Venography",
+      "CT Myelography",
+      "CT Arteriography",
+      "MR Angiography"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q016",
+    "lectureId": "summary-l2",
+    "text": "How much contrast medium is injected in CT Arteriography (CTA)?",
+    "options": [
+      "50 mL",
+      "100 mL",
+      "15 mL",
+      "40 mL"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q017",
+    "lectureId": "summary-l2",
+    "text": "How much saline is injected in CTA?",
+    "options": [
+      "100 mL",
+      "40 mL",
+      "50 mL",
+      "15 mL"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q018",
+    "lectureId": "summary-l2",
+    "text": "What is the delay time for CTA?",
+    "options": [
+      "40 seconds",
+      "15 seconds",
+      "50 seconds",
+      "100 seconds"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q019",
+    "lectureId": "summary-l2",
+    "text": "What does CTV stand for?",
+    "options": [
+      "CT Arteriography",
+      "CT Venography",
+      "CT Myelography",
+      "MR Angiography"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l2-q020",
+    "lectureId": "summary-l2",
+    "text": "How much contrast medium is injected in CT Venography (CTV)?",
+    "options": [
+      "15 mL",
+      "50 mL",
+      "40 mL",
+      "100 mL"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "summary-l2-q021",
+    "lectureId": "summary-l2",
+    "text": "What is the delay time for CTV?",
+    "options": [
+      "15 seconds",
+      "50 seconds",
+      "40 seconds",
+      "100 seconds"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q022",
+    "lectureId": "summary-l2",
+    "text": "Which protocol correctly describes CTA?",
+    "options": [
+      "100 mL contrast, 50 mL saline, 15-second delay",
+      "100 mL contrast, 50 mL saline, 40-second delay",
+      "50 mL contrast, 100 mL saline, 15-second delay",
+      "50 mL contrast, 100 mL saline, 40-second delay"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l2-q023",
+    "lectureId": "summary-l2",
+    "text": "How are CTA and CTV images usually reviewed?",
+    "options": [
+      "T1 and T2 imaging",
+      "AP, oblique, and lateral views",
+      "3D rendered data and MPR",
+      "DWI and ADC maps"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l2-q024",
+    "lectureId": "summary-l2",
+    "text": "What does MPR stand for?",
+    "options": [
+      "Magnetic Resonance Angiography",
+      "Maximum Intensity Projection",
+      "Multi-Planar Reformats",
+      "Magnetic Resonance Imaging"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q001",
+    "lectureId": "summary-l3",
+    "text": "What is the main indication for brain MRI?",
+    "options": [
+      "Spinal trauma only",
+      "All cases of suspected intracranial pathology",
+      "Skull fracture only",
+      "Vertebral deformity only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q002",
+    "lectureId": "summary-l3",
+    "text": "What is the purpose of T1-weighted imaging before contrast?",
+    "options": [
+      "To visualize anatomy",
+      "To measure arterial velocity",
+      "To visualize bleeding as signal loss",
+      "To measure water diffusion"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q003",
+    "lectureId": "summary-l3",
+    "text": "What is the purpose of T1-weighted imaging after contrast?",
+    "options": [
+      "To assess stenosis",
+      "To visualize pathology",
+      "To measure arterial velocity",
+      "To visualize fontanelles"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q004",
+    "lectureId": "summary-l3",
+    "text": "What is the purpose of T2-weighted imaging?",
+    "options": [
+      "To visualize anatomy only",
+      "To measure intracranial pressure",
+      "To visualize pathology",
+      "To measure contrast delay"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q005",
+    "lectureId": "summary-l3",
+    "text": "Which MRI technique is used to visualize anatomy before contrast injection?",
+    "options": [
+      "T1-weighted imaging",
+      "SWI",
+      "DWI",
+      "MRA"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q006",
+    "lectureId": "summary-l3",
+    "text": "What does FLAIR stand for?",
+    "options": [
+      "Fluid Attenuated Inversion Recovery",
+      "Susceptibility Weighted Imaging",
+      "Diffusion Weighted Imaging",
+      "Maximum Intensity Projection"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q007",
+    "lectureId": "summary-l3",
+    "text": "How does CSF appear on FLAIR imaging?",
+    "options": [
+      "Bright",
+      "High signal",
+      "Dark",
+      "Hyper-intense"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q008",
+    "lectureId": "summary-l3",
+    "text": "What is better visualized on FLAIR due to dark CSF?",
+    "options": [
+      "Spinal nerve roots",
+      "Bright lesions nearby",
+      "Vertebral fractures",
+      "Intracerebral arterial velocity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q009",
+    "lectureId": "summary-l3",
+    "text": "Which MRI sequence makes CSF appear dark?",
+    "options": [
+      "T1 pre-contrast",
+      "MRA",
+      "FLAIR",
+      "SWI"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q010",
+    "lectureId": "summary-l3",
+    "text": "What does SWI stand for?",
+    "options": [
+      "Susceptibility Weighted Imaging",
+      "Diffusion Weighted Imaging",
+      "Fluid Attenuated Inversion Recovery",
+      "Magnetic Resonance Angiography"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q011",
+    "lectureId": "summary-l3",
+    "text": "What is the main purpose of SWI?",
+    "options": [
+      "To visualize anatomy",
+      "To visualize bleeding",
+      "To assess spinal stenosis",
+      "To measure arterial velocity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q012",
+    "lectureId": "summary-l3",
+    "text": "How does bleeding appear on SWI?",
+    "options": [
+      "High signal",
+      "Bright lesion",
+      "Signal loss (black)",
+      "3D rendered data"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q013",
+    "lectureId": "summary-l3",
+    "text": "Which technique is used for angiographic imaging by MRI?",
+    "options": [
+      "DWI",
+      "FLAIR",
+      "MRA",
+      "SWI"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q014",
+    "lectureId": "summary-l3",
+    "text": "How can MR Angiography (MRA) be performed?",
+    "options": [
+      "Only with contrast medium",
+      "Only without contrast medium",
+      "With or without contrast medium",
+      "Only with saline"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q015",
+    "lectureId": "summary-l3",
+    "text": "How does flowing blood appear in MRA?",
+    "options": [
+      "Low signal",
+      "High signal",
+      "Signal loss (black)",
+      "Restricted diffusion"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q016",
+    "lectureId": "summary-l3",
+    "text": "Which technique is used to display MRA images?",
+    "options": [
+      "Apparent Diffusion Coefficient",
+      "Maximum Intensity Projection",
+      "Fluid Attenuated Inversion Recovery",
+      "Susceptibility Weighted Imaging"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q017",
+    "lectureId": "summary-l3",
+    "text": "What does MIP stand for?",
+    "options": [
+      "Magnetic Resonance Imaging",
+      "Multi-Planar Reformats",
+      "Maximum Intensity Projection",
+      "Magnetic Resonance Angiography"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q018",
+    "lectureId": "summary-l3",
+    "text": "What does MIP produce in angiographic imaging?",
+    "options": [
+      "A 3D model of vessels",
+      "A brain window",
+      "A bone window",
+      "A spinal canal image"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q019",
+    "lectureId": "summary-l3",
+    "text": "What does DWI stand for?",
+    "options": [
+      "Diffusion Weighted Imaging",
+      "Susceptibility Weighted Imaging",
+      "Fluid Attenuated Inversion Recovery",
+      "Maximum Intensity Projection"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l3-q020",
+    "lectureId": "summary-l3",
+    "text": "What does DWI examine?",
+    "options": [
+      "Intracerebral arterial velocity",
+      "Free movement of water molecules",
+      "Intracranial pressure",
+      "Contrast medium volume"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q021",
+    "lectureId": "summary-l3",
+    "text": "What happens to diffusion in acute infarction?",
+    "options": [
+      "Increased diffusion",
+      "High arterial velocity",
+      "Restricted diffusion",
+      "High 18FDG uptake"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q022",
+    "lectureId": "summary-l3",
+    "text": "How does restricted diffusion appear on DWI in acute infarction?",
+    "options": [
+      "Dark",
+      "Black signal loss",
+      "Hyper-intense (bright)",
+      "Low signal"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l3-q023",
+    "lectureId": "summary-l3",
+    "text": "All DWI images should be reviewed together with:",
+    "options": [
+      "Bone windows",
+      "ADC maps",
+      "AP views",
+      "3D rendered data"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l3-q024",
+    "lectureId": "summary-l3",
+    "text": "What does ADC stand for?",
+    "options": [
+      "Apparent Diffusion Coefficient",
+      "Maximum Intensity Projection",
+      "Magnetic Resonance Angiography",
+      "Multi-Planar Reformats"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q001",
+    "lectureId": "summary-l4",
+    "text": "What is Myelography?",
+    "options": [
+      "Imaging of brain vessels using MRI",
+      "Visualization of the spinal canal and cord by contrast injection",
+      "Imaging of vertebral tumours by radionuclides",
+      "Measuring intracerebral arterial velocity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q002",
+    "lectureId": "summary-l4",
+    "text": "Where is contrast medium injected during Myelography?",
+    "options": [
+      "Into the spinal canal",
+      "Into the cerebral arteries",
+      "Into the cerebral veins",
+      "Into the fontanelles"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q003",
+    "lectureId": "summary-l4",
+    "text": "Which condition is an indication for Myelography?",
+    "options": [
+      "Epilepsy",
+      "Spinal canal stenosis",
+      "Multiple sclerosis",
+      "Acute stroke"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q004",
+    "lectureId": "summary-l4",
+    "text": "When is Myelography indicated for spinal canal pathology?",
+    "options": [
+      "When MRI is contraindicated",
+      "When MRI is preferred",
+      "When CT is quick and efficient",
+      "When transcranial Doppler is used"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q005",
+    "lectureId": "summary-l4",
+    "text": "What is a contraindication for Myelography?",
+    "options": [
+      "Spinal canal stenosis",
+      "Spinal pathology",
+      "Increased intracranial pressure",
+      "Vertebral deformity"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q006",
+    "lectureId": "summary-l4",
+    "text": "Which patient positions are used for Myelography?",
+    "options": [
+      "AP and lateral",
+      "Lateral decubitus or prone",
+      "Oblique and AP",
+      "Lateral and oblique"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q007",
+    "lectureId": "summary-l4",
+    "text": "Where are pillows placed in the prone position?",
+    "options": [
+      "Under the head",
+      "Under the abdomen",
+      "Under the cervical spine",
+      "Under the nerve roots"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q008",
+    "lectureId": "summary-l4",
+    "text": "What type of anesthesia is used during Myelography?",
+    "options": [
+      "Local anesthesia",
+      "T1-weighted imaging",
+      "Contrast medium",
+      "Intravenous saline"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q009",
+    "lectureId": "summary-l4",
+    "text": "What guides spinal needle insertion during Myelography?",
+    "options": [
+      "Ultrasound",
+      "MRI",
+      "Fluoroscopy",
+      "PET"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q010",
+    "lectureId": "summary-l4",
+    "text": "At which intervertebral space is the spinal needle inserted?",
+    "options": [
+      "C1–C2",
+      "L2–L3",
+      "Foramen magnum",
+      "Vertex"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q011",
+    "lectureId": "summary-l4",
+    "text": "What is withdrawn after spinal needle insertion?",
+    "options": [
+      "Contrast medium",
+      "Spinal canal",
+      "Stylet",
+      "Spinal cord"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q012",
+    "lectureId": "summary-l4",
+    "text": "What should drip from the needle after withdrawing the stylet?",
+    "options": [
+      "Saline",
+      "Contrast medium",
+      "CSF",
+      "18FDG"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q013",
+    "lectureId": "summary-l4",
+    "text": "How is contrast medium injected during Myelography?",
+    "options": [
+      "Under fluoroscopic guidance",
+      "Using transcranial Doppler",
+      "Using the fontanelles",
+      "Using Maximum Intensity Projection"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q014",
+    "lectureId": "summary-l4",
+    "text": "Where does contrast flow in Lumbar Myelography?",
+    "options": [
+      "Cervical spine",
+      "Lumbar spine",
+      "Cerebral arteries",
+      "Cerebral veins"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q015",
+    "lectureId": "summary-l4",
+    "text": "Where does contrast flow in Cervical Myelography?",
+    "options": [
+      "Lumbar spine",
+      "Cervical spine",
+      "Anterior cranial fossa",
+      "Cerebral arteries"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q016",
+    "lectureId": "summary-l4",
+    "text": "At which level may direct cervical puncture be performed?",
+    "options": [
+      "L2–L3",
+      "Foramen magnum",
+      "C1/C2",
+      "Vertex"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q017",
+    "lectureId": "summary-l4",
+    "text": "How often is direct cervical puncture at C1/C2 performed nowadays?",
+    "options": [
+      "Usually",
+      "In all cases",
+      "Rarely",
+      "Before every CT"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q018",
+    "lectureId": "summary-l4",
+    "text": "Which imaging views are obtained during Myelography?",
+    "options": [
+      "AP, Oblique, and Lateral",
+      "T1, T2, and FLAIR",
+      "DWI, ADC, and SWI",
+      "Brain, Bone, and MIP"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q019",
+    "lectureId": "summary-l4",
+    "text": "Which projection is included in conventional Myelography?",
+    "options": [
+      "Oblique view",
+      "FLAIR imaging",
+      "DWI imaging",
+      "MIP imaging"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l4-q020",
+    "lectureId": "summary-l4",
+    "text": "What examination is performed after conventional Myelography?",
+    "options": [
+      "PET",
+      "CT",
+      "Transcranial Doppler",
+      "Plain skull films"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q021",
+    "lectureId": "summary-l4",
+    "text": "What is the name of CT performed after conventional Myelography?",
+    "options": [
+      "CT Arteriography",
+      "CT Venography",
+      "CT Myelography",
+      "MR Angiography"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l4-q022",
+    "lectureId": "summary-l4",
+    "text": "What is the primary purpose of a myelogram?",
+    "options": [
+      "To evaluate the brain",
+      "To assess the spinal cord and nerve roots",
+      "To diagnose abdominal disorders",
+      "To visualize the lungs"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l4-q023",
+    "lectureId": "summary-l4",
+    "text": "Which view is often used during myelography to assess spinal anatomy?",
+    "options": [
+      "Anteroposterior (AP) view",
+      "Lateral view",
+      "Oblique view",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "summary-l5-q001",
+    "lectureId": "summary-l5",
+    "text": "What are plain films of the spine used for?",
+    "options": [
+      "Multiple sclerosis",
+      "Spinal injury",
+      "Acute stroke",
+      "Epilepsy"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q002",
+    "lectureId": "summary-l5",
+    "text": "Which structural condition can be evaluated using plain films of the spine?",
+    "options": [
+      "Intracranial hemorrhage",
+      "Spinal deformity",
+      "Intracranial infection",
+      "Aneurysm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q003",
+    "lectureId": "summary-l5",
+    "text": "Which condition is an example of spinal deformity?",
+    "options": [
+      "Multiple sclerosis",
+      "Epilepsy",
+      "Scoliosis",
+      "Acute infarction"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l5-q004",
+    "lectureId": "summary-l5",
+    "text": "When is spinal Myelography used?",
+    "options": [
+      "When MRI is contraindicated",
+      "When MRI is preferred",
+      "When MRA is performed",
+      "When PET uptake is high"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l5-q005",
+    "lectureId": "summary-l5",
+    "text": "Which imaging examination usually follows spinal Myelography?",
+    "options": [
+      "Ultrasound",
+      "PET",
+      "CT",
+      "MRI"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l5-q006",
+    "lectureId": "summary-l5",
+    "text": "What does CTM stand for?",
+    "options": [
+      "CT Arteriography",
+      "CT Myelography",
+      "CT Venography",
+      "Magnetic Resonance Angiography"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q007",
+    "lectureId": "summary-l5",
+    "text": "Which spinal condition is an indication for radionuclide imaging?",
+    "options": [
+      "Vertebral tumours",
+      "Acute stroke",
+      "Intracranial infection",
+      "Epilepsy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l5-q008",
+    "lectureId": "summary-l5",
+    "text": "Radionuclide imaging of the spine is also used for:",
+    "options": [
+      "Skull fracture",
+      "Vertebral metastasis",
+      "Multiple sclerosis",
+      "Intracranial hemorrhage"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q009",
+    "lectureId": "summary-l5",
+    "text": "What does spinal CT visualize in detail?",
+    "options": [
+      "Nerve roots",
+      "Vertebrae",
+      "Fontanelles",
+      "Cerebral arteries"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q010",
+    "lectureId": "summary-l5",
+    "text": "Which traumatic condition is spinal CT useful for?",
+    "options": [
+      "Head injury",
+      "Spinal trauma",
+      "Acute stroke",
+      "Intracranial hemorrhage"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q011",
+    "lectureId": "summary-l5",
+    "text": "Which pathological condition is spinal CT useful for?",
+    "options": [
+      "Epilepsy",
+      "Multiple sclerosis",
+      "Spinal tumours",
+      "Acute stroke"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l5-q012",
+    "lectureId": "summary-l5",
+    "text": "Which structural condition is spinal CT useful for?",
+    "options": [
+      "Intracranial infection",
+      "Spinal deformity",
+      "Intracranial hemorrhage",
+      "Acute infarction"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q013",
+    "lectureId": "summary-l5",
+    "text": "What is the preferred imaging technique for all spinal pathology?",
+    "options": [
+      "Plain Films",
+      "Radionuclide Imaging",
+      "MRI",
+      "Ultrasound"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l5-q014",
+    "lectureId": "summary-l5",
+    "text": "Which imaging modality directly visualizes the spinal cord?",
+    "options": [
+      "CT",
+      "MRI",
+      "Plain Films",
+      "Radionuclide Imaging"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q015",
+    "lectureId": "summary-l5",
+    "text": "Which imaging modality directly visualizes nerve roots?",
+    "options": [
+      "Ultrasound",
+      "CT",
+      "MRI",
+      "Plain Films"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "summary-l5-q016",
+    "lectureId": "summary-l5",
+    "text": "MRI with I.V. contrast is used to diagnose:",
+    "options": [
+      "Spinal infection",
+      "Acute stroke",
+      "Skull fracture",
+      "Epilepsy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "summary-l5-q017",
+    "lectureId": "summary-l5",
+    "text": "Which condition is an indication for spinal MRI with I.V. contrast?",
+    "options": [
+      "Scoliosis",
+      "Tumours",
+      "Skull injury",
+      "Acute infarction"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q018",
+    "lectureId": "summary-l5",
+    "text": "MRI with I.V. contrast is used for:",
+    "options": [
+      "Measuring arterial velocity",
+      "Postoperative assessment",
+      "Imaging through fontanelles",
+      "Assessing 18FDG uptake"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "summary-l5-q019",
+    "lectureId": "summary-l5",
+    "text": "In which age group is spinal ultrasound used?",
+    "options": [
+      "Adults",
+      "Patients with acute stroke",
+      "Infants",
+      "Patients with vertebral metastasis"
+    ],
+    "correct": 2
+  }
+]

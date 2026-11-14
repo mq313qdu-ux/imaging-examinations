@@ -1,0 +1,66 @@
+[
+  {
+    "id": "doctor-l1",
+    "title": "MYELOGRAPHY",
+    "number": "1",
+    "category": "أسئلة الدكتور",
+    "order": 1,
+    "icon": "trophy"
+  },
+  {
+    "id": "doctor-l2",
+    "title": "BRAIN IMAGING & NEUROIMAGING",
+    "number": "2",
+    "category": "أسئلة الدكتور",
+    "order": 2,
+    "icon": "trophy"
+  },
+  {
+    "id": "doctor-l3",
+    "title": "SPINAL IMAGING",
+    "number": "3",
+    "category": "أسئلة الدكتور",
+    "order": 3,
+    "icon": "trophy"
+  },
+  {
+    "id": "summary-l1",
+    "title": "METHODS OF IMAGING THE BRAIN",
+    "number": "1",
+    "category": "أسئلة الملخص",
+    "order": 4,
+    "icon": "📘"
+  },
+  {
+    "id": "summary-l2",
+    "title": "CT OF THE BRAIN",
+    "number": "2",
+    "category": "أسئلة الملخص",
+    "order": 5,
+    "icon": "📗"
+  },
+  {
+    "id": "summary-l3",
+    "title": "MRI OF THE BRAIN",
+    "number": "3",
+    "category": "أسئلة الملخص",
+    "order": 6,
+    "icon": "📙"
+  },
+  {
+    "id": "summary-l4",
+    "title": "MYELOGRAPHY",
+    "number": "4",
+    "category": "أسئلة الملخص",
+    "order": 7,
+    "icon": "📕"
+  },
+  {
+    "id": "summary-l5",
+    "title": "METHODS OF IMAGING THE SPINE",
+    "number": "5",
+    "category": "أسئلة الملخص",
+    "order": 8,
+    "icon": "📓"
+  }
+]
