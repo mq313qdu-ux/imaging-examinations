@@ -2,6 +2,8 @@
 
 إعداد مقتدى الكناني. يضم قسم «أسئلة الدكتور» اختبارًا واحدًا من 35 سؤالًا، ويضم قسم «أسئلة الملخص» 118 سؤالًا في خمس محاضرات. تظهر الأسئلة والخيارات بالإنكليزية، وتظهر الترجمة العراقية عند تفعيلها من شريط الاختبار.
 
+لكل سؤال شرح علمي باللهجة العراقية. يظهر الشرح بعد الإجابة الخاطئة، وفي زر «لماذا هذه الإجابة؟» ومراجعة النتائج. أحجام التباين وأزمنة التصوير المحددة في الأسئلة مأخوذة من بروتوكول المحاضرة.
+
 نصوص الأسئلة والخيارات مأخوذة من الملفين المرسلين بالترتيب نفسه. يعتمد التصحيح على علامة الصح بجانب الخيار في كل ملف. تولّد الواجهة أرقام الأسئلة وحروف الخيارات تلقائيًا.
 
 موقع ثابت (Static) يعمل على GitHub Pages بلا أي خادم أو SDK. الواجهة والمحرك مستقلان تمامًا عن المادة؛ المحتوى كله في ملفات JSON.
@@ -32,6 +34,18 @@ tools/                validate-data.js و test-core.js و test-ui.js (للتطو
 **enrichment.json** (اختياري، ويمكن إضافة ملفات أخرى في `enrichmentFiles`):
 `{"items":{"L1-Q001":{"translation":{"q":"...","options":["..."]},"explanation":"...","why":{"correct":"...","wrong":{"0":"..."}}}}}`
 تظهر الشروح عند توفرها.
+
+### مراجع الشروح
+
+- [معيار ACR وASNR وSPR لتصوير النخاع](https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=64&ReleaseId=2)
+- [معايير ACR لتصوير رضوض الرأس](https://acsearch.acr.org/docs/69481/Narrative)
+- [معايير ACR لتصوير اعتلال الحبل الشوكي](https://acsearch.acr.org/docs/69484/Narrative/)
+- [معيار ACR وASNR وSPR لتصوير أوعية الرأس والعنق بالمفراس](https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=72&ReleaseId=2)
+- [دليل EANM لاستخدام PET وSPECT في الصرع](https://pmc.ncbi.nlm.nih.gov/articles/PMC11139752/)
+- [معيار AIUM لسونار دماغ حديثي الولادة والرضّع](https://doi.org/10.1002/jum.16551)
+- [معيار ACR وAIUM وSPR وSRU لسونار العمود الفقري عند الرضّع](https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=191&ReleaseId=2)
+
+### فحص البيانات
 
 تحقق من البيانات قبل النشر: `node tools/validate-data.js data`
 

@@ -86,7 +86,7 @@ const CORRECT = { 'demo-l1': [2, 2, 1], 'demo-l2': [1, 3, 2] };
     assert.ok(p.counter().includes('1 من 35'));
     p.w.close();
   });
-  await t('every production question renders English first, translates on demand, and scores the keyed answer', async () => {
+  await t('every production question translates on demand and explains the keyed answer after a mistake', async () => {
     const p = await open('', null, null, 'production');
     const content = p.w.QDU.App.content;
     for (const q of content.questions) {
@@ -98,14 +98,18 @@ const CORRECT = { 'demo-l1': [2, 2, 1], 'demo-l2': [1, 3, 2] };
       assert.equal(p.$$('.option-btn').length, q.options.length, q.id);
       assert.deepEqual(p.$$('.opt-main > span:last-child').map(x => x.textContent), Array.from(q.options), q.id);
       const en = content.enrichment.get(q.id);
+      assert.ok(en.explanation && /[\u0600-\u06ff]/.test(en.explanation), q.id);
       p.act('qTr', '[data-v="both"]');
       assert.equal(p.$('.translation').textContent, en.translation.q, q.id);
       assert.deepEqual(p.$$('.opt-tr').map(x => x.textContent), Array.from(en.translation.options), q.id);
       p.act('qTr', '[data-v="off"]');
       ansIdx(p, (q.correct + 1) % q.options.length);
       assert.ok(p.$('.feedback-box').textContent.includes(q.options[q.correct]), q.id);
+      assert.ok(p.$('.feedback-box').textContent.includes(en.explanation), q.id);
       assert.ok(p.$$('.option-btn')[q.correct].classList.contains('correct'), q.id);
-      assert.ok(!p.$('.translation, .opt-tr, [data-act="qWhy"]'), q.id);
+      assert.ok(!p.$('.translation, .opt-tr'), q.id);
+      p.act('qWhy');
+      assert.ok(p.$('.why-box').textContent.includes(en.explanation), q.id);
       p.w.QDU.Quiz.leave();
       delete p.state().sessions[s.id];
     }
